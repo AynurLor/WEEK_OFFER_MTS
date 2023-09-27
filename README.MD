@@ -1,6 +1,3 @@
-Очень хорошо, вот пример README.md файла для вашего проекта на GitHub:
-
-```markdown
 # My MTS Tariff Parser
 
 Это Java Spring приложение для парсинга и агрегации публичных тарифов МТС с веб-страницы и их отображения.
@@ -32,6 +29,5 @@
 
 3. Запустите введите в браузере `http://localhost:8080/tariffPlane`.
 
-```shell
-./mvnw spring-boot:run
-```
+
+```./mvnw spring-boot:run ```
